@@ -27,6 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <h2 align="left"> 💻 Projeto </h2>
 O Florest é um projeto pessoal criado para explorar a biblioteca do Tailwind CSS, sendo utilizado em todo o site.
+
 ---
 
 By Arthur Strelow 👋
