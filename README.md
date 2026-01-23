@@ -5,8 +5,8 @@ Projeto pessoal criado para praticar as técnologias do Tailwind CSS mais a fund
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>
+  <a target="_blank" href="https://www.linkedin.com/in/arthur-franco-strelow-869b0b34b/">Linkedin</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a target="_blank" href="https://www.instagram.com/arthurstlw/">Instagram</a>
 </p>
 
 <p align="center">
