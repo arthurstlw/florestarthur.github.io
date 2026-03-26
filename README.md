@@ -1,4 +1,4 @@
-<h1 align="center"> Florest </h1>
+<h1 align="center"> Forest </h1>
 
 <p align="center">
 Projeto pessoal criado para praticar as técnologias do Tailwind CSS mais a fundo.<br/>
@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Figma
 
 <h2 align="left"> 💻 Projeto </h2>
-O Florest é um projeto pessoal criado para explorar a biblioteca do Tailwind CSS, sendo utilizado em todo o site.
+O Forest é um projeto pessoal criado para explorar a biblioteca do Tailwind CSS, sendo utilizado em todo o site.
 
 ---
 
